@@ -1,5 +1,5 @@
 # [Dataset DOI] — [Manuscript Title] — Replication Package Check (ZBW Journal Data Archive)
-
+Version 1.1
 > **INSTRUCTION:** Replace bracketed placeholders. Keep INSTRUCTION blocks while you work; remove them before final report completion. 
 
 **Journal:** [name]  
@@ -8,7 +8,6 @@
 **Authors (paper order):** [list of names]  
 **Responsible replicator:** [name]  
 **Start date:** [YYYY‑MM‑DD] | **Completion date:** [YYYY‑MM‑DD]
-
 
 ## SUMMARY
 
@@ -31,11 +30,11 @@
 - [ ] Others:
 
 ### Major finding and action items
-> **INSTRUCTION:** This part includes 1–3 lines summrising the major findings of section 11), and then is filled be based on any [REQUIRED] and [SUGGESTED] action items that the report makes a note of below.
+> **INSTRUCTION:** This part includes 1–3 lines summarising the major findings of section 11), and then is filled be based on any [REQUIRED] and [SUGGESTED] action items that the report makes a note of below.
 
 > **INSTRUCTION:** KEEP the next line AS-IS, WORD FOR WORD. Do not delete it, edit it, or paraphrase it, regardless of what else changes in this SUMMARY (including on a later revision round). It is the fixed transition sentence from the SUMMARY into the Action Items lists below, and must always be the last line of the SUMMARY, immediately before "action items".
 
-In assessing compliance with our [Data and Code Availability Policy](link to the journal data and code policy), we have identified the following issues, which we ask you to address:
+In assessing compliance with our data and code availability standards, we have identified the following issues, which we ask you to address:
 
 > **INSTRUCTION:** Copy-paste all the [REQUIRED] and [SUGGESTED] action items below in the report here.
 
@@ -51,7 +50,7 @@ In assessing compliance with our [Data and Code Availability Policy](link to the
 - [ ] Environment: Record OS/versions; pin software and package versions (Stata/R/Python).
 - [ ] Run: Execute end‑to‑end; log errors/fixes; re‑run clean/corrected code.
 - [ ] Findings: Fill table/figure/in‑text results; classify reproducibility; list suggestions.
-- [ ] Finalize: Check classification; summerise the findings.
+- [ ] Finalize: Check classification; summarise the findings.
 
 ---
 Part A
@@ -89,7 +88,7 @@ Part A
 
 > **INSTRUCTION:** If RCT applies, cite the RCT registry & identifier
 
-> [SUGGESTED] This is a RCT. RCTs are reguired to be registered, the registration number be **cited** in the title page footnote.
+> [SUGGESTED] This is a RCT. RCTs are required to be registered, the registration number be **cited** in the title page footnote.
 
 > [SUGGESTED] Please cite the RCT wherever referenced (including title footnote).
 ---
