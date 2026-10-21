@@ -51,7 +51,7 @@ You can use the following as a template. Make sure to fill out this information 
 
 - **Provided:** Let the replicators know if you have included that data file in the replication package (TRUE/FALSE)
 
-- **License (optional, but recommanded):** While this is not mandatory, it is great to know under which license the data is available to understand if it is public or private, or publication limitations. 
+- **License (optional, but recommended):** While this is not mandatory, it is great to know under which license the data is available to understand if it is public or private, or publication limitations. 
 
 ### Statement about Rights
 
@@ -147,10 +147,10 @@ Outputs
 ```
 
 ## References
-Please provice a full list of references here - [examples: how to cite data](https://social-science-data-editors.github.io/guidance/Guidance/Data_citation_guide.html) 
+Please provide a full list of references here - [examples: how to cite data](https://social-science-data-editors.github.io/guidance/Guidance/Data_citation_guide.html) 
 
 ## Credit and License
-* This template is a modified version of the the readme-template provided by the world bank (https://github.com/worldbank/wb-reproducible-research-repository/blob/main/resources/README_Template.md) and the social science data editors [SSDE](Lars Vilhuber, Miklós Koren, Joan Llull, Marie Connolly and Peter Morrow (2022): A template README for social science replication packages. DOI: 10.5281/zenodo.7293838, latest version is availabale from https://github.com/social-science-data-editors/template_README/blob/releases/README.md). 
-We would like to thank these initiatives for their exceptional contributions to developing a practical README template and improving the reproducibility of economic research. The SSDE template is available under a CC-BY-NC 4.0 International license (https://creativecommons.org/licenses/by/4.0/). This adaption follows their license conditions and is also availabale under the same CC-BY-NC 4.0 license. 
+* This template is a modified version of the readme-template provided by the world bank (https://github.com/worldbank/wb-reproducible-research-repository/blob/main/resources/README_Template.md) and the social science data editors [SSDE](Lars Vilhuber, Miklós Koren, Joan Llull, Marie Connolly and Peter Morrow (2022): A template README for social science replication packages. DOI: 10.5281/zenodo.7293838, latest version is available from https://github.com/social-science-data-editors/template_README/blob/releases/README.md). 
+We would like to thank these initiatives for their exceptional contributions to developing a practical README template and improving the reproducibility of economic research. The SSDE template is available under a CC-BY-NC 4.0 International license (https://creativecommons.org/licenses/by/4.0/). This adaption follows their license conditions and is also available under the same CC-BY-NC 4.0 license. 
 
 
